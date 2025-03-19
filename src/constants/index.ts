@@ -16,7 +16,7 @@ export const EXPERIENCE = [
         company: 'Agencia Momentum',
         description:
             'Encargado de desarrollar soluciones web en empresa del sector inmobiliario implementando las mejores prácticas para la construcción de interfaces modernas y dinámicas para mejorar la experiencia del usuario final.',
-        date: 'Enero 2023 - Presente',
+        date: 'Enero 2023 - Noviembre 2024',
         link: 'https://agenciamomentum.co/',
     },
     {
